@@ -12,7 +12,7 @@ Used to get a flavor for Angular.js with Rails 4
 
 ## Installation
 
-This application uses the (feedzirra)[https://github.com/pauldix/feedzirra] gem for parsing and getting feeds.  This requires the [curb](https://github.com/taf2/curb) gem, which in turn requires you to have a working (lib)curl instillation, among other things.  Check out the curb site for more information.
+This application uses the [feedzirra](https://github.com/pauldix/feedzirra) gem for parsing and getting feeds.  This requires the [curb](https://github.com/taf2/curb) gem, which in turn requires you to have a working (lib)curl instillation, among other things.  Check out the curb site for more information.
 
 ## Configuration
 

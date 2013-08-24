@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-AngularCasts::Application.config.secret_key_base = 'acc1547144fd58e31a8a29a195004767c7471dd6c4027fb18a6ae9c570cb6fb3d909e17340425e5045504066f198a148cf0d1798598aed696a4bf92145badf65'
+AngularCasts::Application.config.secret_key_base = ENV['ANGULAR_CAST_SECRET_KEY_BASE']
